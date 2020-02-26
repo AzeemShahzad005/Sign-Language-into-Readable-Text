@@ -1,1 +1,1 @@
-# Sign Gesture system (in Roman Urdu) for Understanding Deaf and Dumb
+# Sign Language into readable text using OpenCV, Keras , CNN
